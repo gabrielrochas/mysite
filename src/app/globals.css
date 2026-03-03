@@ -121,7 +121,10 @@
 	body {
 		@apply bg-background text-foreground font-sans;
 	}
-	h1, h2, h3, h4 {
+	h1,
+	h2,
+	h3,
+	h4 {
 		font-family: var(--font-poiret-one);
 	}
 	h1 {
@@ -140,10 +143,10 @@
 		font-size: 1.125rem;
 		line-height: 1.5rem;
 	}
-	@media  (min-width: 768px) {
+	@media (min-width: 768px) {
 		h1 {
-		font-size: 2.25rem;
-		line-height: 2.5rem;
+			font-size: 2.25rem;
+			line-height: 2.5rem;
 		}
 		h2 {
 			font-size: 1.875rem;
@@ -160,8 +163,8 @@
 	}
 	@media (min-width: 1024px) {
 		h1 {
-		font-size: 3rem;
-		line-height: 3.5rem;
+			font-size: 3rem;
+			line-height: 3.5rem;
 		}
 		h2 {
 			font-size: 2.25rem;

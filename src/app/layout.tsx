@@ -3,6 +3,10 @@ import { Lato, Poiret_One } from 'next/font/google'
 import type { Metadata } from 'next'
 import './globals.css'
 
+import { Footer } from '@/components/footer'
+import { Header } from '@/components/header'
+import { I18nProvider } from '@/components/i18n-provider'
+
 const poiretOne = Poiret_One({
 	variable: '--font-poiret-one',
 	subsets: ['latin'],
@@ -17,7 +21,8 @@ const lato = Lato({
 
 export const metadata: Metadata = {
 	title: 'Gabriel Rocha | Frontend Developer - React, Next.js & TypeScript',
-	description: 'Frontend Developer especializado em React, Next.js e TypeScript. Soluções completas de desenvolvimento + hospedagem para empresas internacionais.',
+	description:
+		'Frontend Developer especializado em React, Next.js e TypeScript. Soluções completas de desenvolvimento + hospedagem para empresas internacionais.',
 	keywords: [
 		'Frontend Developer',
 		'React Developer',
@@ -41,13 +46,24 @@ export const metadata: Metadata = {
 		url: 'https://rochagabriel.com',
 		siteName: 'Gabriel Rocha Portfolio',
 		title: 'Gabriel Rocha | Frontend Developer',
-		description: 'Frontend Developer especializado em React, Next.js e TypeScript. Soluções completas de desenvolvimento + hospedagem.',
+		description:
+			'Frontend Developer especializado em React, Next.js e TypeScript. Soluções completas de desenvolvimento + hospedagem.',
+		images: [
+			{
+				url: '/og-image.png',
+				width: 1200,
+				height: 630,
+				alt: 'Gabriel Rocha - Frontend Developer',
+			},
+		],
 	},
 	twitter: {
 		card: 'summary_large_image',
 		creator: '@gabrielrochas',
 		title: 'Gabriel Rocha | Frontend Developer',
-		description: 'Frontend Developer especializado em React, Next.js e TypeScript.',
+		description:
+			'Frontend Developer especializado em React, Next.js e TypeScript.',
+		images: ['/og-image.png'],
 	},
 	robots: {
 		index: true,
@@ -60,8 +76,9 @@ export const metadata: Metadata = {
 			'max-snippet': -1,
 		},
 	},
-	verification: {
-		google: 'your-google-verification-code',
+	icons: {
+		icon: '/favicon.ico',
+		apple: '/apple-touch-icon.png',
 	},
 }
 
@@ -71,9 +88,19 @@ export default function RootLayout({
 	children: React.ReactNode
 }>) {
 	return (
-		<html lang="pt-BR">
+		<html lang="pt-BR" className="scroll-smooth">
 			<body className={`${lato.variable} ${poiretOne.variable} antialiased`}>
-				{children}
+				<I18nProvider>
+					<a
+						href="#main-content"
+						className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:rounded-md focus:bg-primary focus:px-4 focus:py-2 focus:text-primary-foreground focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+					>
+						Pular para o conteúdo principal
+					</a>
+					<Header />
+					<main id="main-content">{children}</main>
+					<Footer />
+				</I18nProvider>
 			</body>
 		</html>
 	)

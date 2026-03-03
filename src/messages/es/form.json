@@ -1,0 +1,85 @@
+{
+  "section_title": "Aplicar para proyecto",
+  "section_subtitle": "Complete el formulario a continuación y le responderemos en 24 horas",
+  "fields": {
+    "name": {
+      "label": "Tu nombre completo",
+      "placeholder": "Juan Silva",
+      "errors": {
+        "required": "Nombre es obligatorio",
+        "min_length": "Nombre debe tener al menos 3 caracteres"
+      }
+    },
+    "email": {
+      "label": "Tu email",
+      "placeholder": "juan@empresa.com",
+      "errors": {
+        "required": "Email es obligatorio",
+        "invalid": "Email inválido"
+      }
+    },
+    "whatsapp": {
+      "label": "Tu WhatsApp",
+      "placeholder": "+34 612 345 678",
+      "errors": {
+        "required": "WhatsApp es obligatorio",
+        "invalid": "WhatsApp inválido"
+      }
+    },
+    "company": {
+      "label": "Nombre de tu empresa",
+      "placeholder": "Empresa X S.L.",
+      "errors": {
+        "required": "Nombre de empresa es obligatorio"
+      }
+    },
+    "objective": {
+      "label": "¿Cuál es el objetivo principal del proyecto?",
+      "placeholder": "Ej.: Crear landing page para captar leads",
+      "errors": {
+        "required": "Objetivo es obligatorio",
+        "min_length": "Describe el objetivo con al menos 10 caracteres"
+      }
+    },
+    "project_type": {
+      "label": "Tipo de proyecto",
+      "options": [
+        "Sitio rápido (landing page, corporativo)",
+        "Aplicación a medida (CRM, dashboard, sistema)",
+        "Aún no lo sé"
+      ],
+      "errors": {
+        "required": "Selecciona el tipo de proyecto"
+      }
+    },
+    "budget_range": {
+      "label": "Rango de inversión que tiene sentido para ti",
+      "options": [
+        "Hasta €5.000",
+        "€5.000 - €15.000",
+        "€15.000 - €30.000",
+        "Más de €30.000",
+        "Necesito entender mejor"
+      ],
+      "errors": {
+        "required": "Selecciona el rango de inversión"
+      }
+    },
+    "urgency": {
+      "label": "¿Cuál es la urgencia?",
+      "options": [
+        "Urgente (necesito en hasta 2 semanas)",
+        "Medio plazo (1-2 meses)",
+        "Largo plazo (3+ meses)",
+        "Sin prisa, quiero entender viabilidad"
+      ]
+    },
+    "additional_info": {
+      "label": "Cuéntame más sobre tu negocio y el problema (opcional)",
+      "placeholder": ""
+    }
+  },
+  "submit_button": "Enviar",
+  "submit_message": "Recibirás un email en hasta 24 horas con los próximos pasos y enlace para agendar una llamada.",
+  "filter_text": "Este diagnóstico es para empresas que buscan resultado real, no solo 'un sitio web bonito'. Si quieres algo profesional y estás dispuesto a invertir de forma adecuada, hablemos."
+}

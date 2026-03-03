@@ -1,0 +1,29 @@
+{
+  "section_title": "Preguntas frecuentes",
+  "questions": [
+    {
+      "question": "¿Cuánto cuesta?",
+      "answer": "Sitios rápidos tienen alcance fijo y rango de inversión predecible. Aplicaciones a medida varían según complejidad — CRM simple es diferente de plataforma B2B. Después de la llamada de diagnóstico, envío propuesta con valor detallado por etapa."
+    },
+    {
+      "question": "¿Cuál es el plazo?",
+      "answer": "Sitios rápidos: hasta 10 días hábiles. Aplicaciones a medida: entre 4 y 12 semanas, dependiendo del alcance. Trabajo en sprints cortos (1–2 semanas) con entregas parciales para que puedas seguir evolución."
+    },
+    {
+      "question": "¿Cómo funciona el pago?",
+      "answer": "Generalmente divido en 3 cuotas: 30% al inicio (para comenzar), 40% en el medio (después de primera entrega), 30% en la entrega final. Acepto transferencia bancaria. Todo documentado en contrato simple."
+    },
+    {
+      "question": "¿Y si no sé definir lo que necesito?",
+      "answer": "¡Normal! La llamada de diagnóstico sirve justamente para eso. Explicas el problema, hago preguntas sobre tu proceso y negocio, y juntos llegamos a un alcance claro. No espero que llegues con 'especificación técnica lista'."
+    },
+    {
+      "question": "¿Dan soporte después de la entrega?",
+      "answer": "Sí. Todo proyecto incluye 30 días de garantía para ajustes y dudas. Después, ofrezco planes de mantenimiento mensual para correcciones, mejoras y actualizaciones."
+    },
+    {
+      "question": "¿Por qué no usar plataforma lista?",
+      "answer": "Plataformas listas (Wix, WordPress, no-code) son excelentes para casos simples. Si necesitas integraciones específicas, reglas de negocio personalizadas o algo que 'no existe listo', código a medida es más eficiente y escalable. Y no quedas rehén de suscripciones de plugins."
+    }
+  ]
+}

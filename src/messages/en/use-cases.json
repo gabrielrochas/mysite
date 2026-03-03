@@ -1,0 +1,30 @@
+{
+  "section_title": "Use cases",
+  "small_business": {
+    "title": "Small service businesses",
+    "description": "Landing page to capture appointments, corporate website with contact form, simple scheduling system integrated with Google Calendar.",
+    "triggers": [
+      "Capture clients online via paid traffic",
+      "Validate new offer without investing in something complex",
+      "Professional digital presence to convey credibility"
+    ]
+  },
+  "startups": {
+    "title": "Startups and growing companies",
+    "description": "Custom internal CRM, operations dashboard with real-time metrics, order system, customer portal with transaction history.",
+    "triggers": [
+      "Eliminate spreadsheets that don't scale",
+      "Centralize scattered information in WhatsApp, Notion and email",
+      "Have operational visibility to make quick decisions"
+    ]
+  },
+  "established_companies": {
+    "title": "Companies with structured operations",
+    "description": "Dashboard to track production, custom order system, workflow automation between ERP and other tools.",
+    "triggers": [
+      "Integrate systems that don't talk to each other",
+      "Automate manual tasks that generate errors",
+      "Have real-time control of critical processes"
+    ]
+  }
+}

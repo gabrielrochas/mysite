@@ -1,0 +1,30 @@
+{
+  "section_title": "Casos de uso",
+  "small_business": {
+    "title": "Pequenas empresas de serviços",
+    "description": "Landing page para captar agendamentos, site institucional com formulário de contato, sistema simples de agendamento integrado ao Google Calendar.",
+    "triggers": [
+      "Captar clientes online via tráfego pago",
+      "Validar oferta nova sem investir em algo complexo",
+      "Presença digital profissional para transmitir credibilidade"
+    ]
+  },
+  "startups": {
+    "title": "Startups e empresas em crescimento",
+    "description": "CRM interno customizado, dashboard de operação com métricas em tempo real, sistema de pedidos, portal de clientes com histórico de transações.",
+    "triggers": [
+      "Eliminar planilhas que não escalam",
+      "Centralizar informação dispersa em WhatsApp, Notion e email",
+      "Ter visibilidade de operação para tomar decisões rápidas"
+    ]
+  },
+  "established_companies": {
+    "title": "Empresas com operação estruturada",
+    "description": "Dashboard para acompanhar produção, sistema de pedidos customizado, automação de fluxos entre ERP e outras ferramentas.",
+    "triggers": [
+      "Integrar sistemas que não conversam entre si",
+      "Automatizar tarefas manuais que geram erro",
+      "Ter controle em tempo real de processos críticos"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "section_title": "Frequently asked questions",
+  "questions": [
+    {
+      "question": "How much does it cost?",
+      "answer": "Fast websites have fixed scope and predictable investment range. Custom applications vary by complexity — simple CRM is different from B2B platform. After the diagnosis call, I send a proposal with detailed value per stage."
+    },
+    {
+      "question": "What's the timeline?",
+      "answer": "Fast websites: up to 10 business days. Custom applications: between 4 and 12 weeks, depending on scope. I work in short sprints (1–2 weeks) with partial deliveries so you can track progress."
+    },
+    {
+      "question": "How does payment work?",
+      "answer": "Usually divided into 3 installments: 30% at start (to begin), 40% in the middle (after first delivery), 30% at final delivery. I accept bank transfer and wire. Everything documented in simple contract."
+    },
+    {
+      "question": "What if I don't know how to define what I need?",
+      "answer": "Normal! The diagnosis call is exactly for that. You explain the problem, I ask questions about your process and business, and together we arrive at a clear scope. I don't expect you to come with 'ready technical specification'."
+    },
+    {
+      "question": "Do you provide support after delivery?",
+      "answer": "Yes. Every project includes 30 days warranty for adjustments and questions. After that, I offer monthly maintenance plans for fixes, improvements and updates."
+    },
+    {
+      "question": "Why not use a ready-made platform?",
+      "answer": "Ready-made platforms (Wix, WordPress, no-code) are great for simple cases. If you need specific integrations, custom business rules or something that 'doesn't exist ready', custom code is more efficient and scalable. And you're not hostage to plugin subscriptions."
+    }
+  ]
+}

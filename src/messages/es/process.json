@@ -1,0 +1,35 @@
+{
+  "section_title": "Proceso de trabajo",
+  "steps": [
+    {
+      "title": "Diagnóstico",
+      "description": "Llamada de 30–45 min para entender tu negocio, proceso actual y objetivo. No es 'reunión de ventas', es conversación técnica para ver si tiene sentido trabajar juntos.",
+      "duration": "30-45 min"
+    },
+    {
+      "title": "Propuesta y alcance",
+      "description": "En hasta 3 días, recibes propuesta estructurada con alcance claro, plazo realista e inversión detallada. Sin sorpresas en el camino.",
+      "duration": "3 días"
+    },
+    {
+      "title": "Kick-off",
+      "description": "Alineación final de expectativas, definición de hitos de entrega y configuración de herramientas de seguimiento.",
+      "duration": "1-2h"
+    },
+    {
+      "title": "Desarrollo",
+      "description": "Trabajo en sprints cortos (1–2 semanas) con entregas parciales para que puedas seguir evolución y dar feedback.",
+      "duration": "4-12 semanas"
+    },
+    {
+      "title": "Entrega y pruebas",
+      "description": "Revisión final, pruebas de calidad, ajustes y publicación en producción.",
+      "duration": "1 semana"
+    },
+    {
+      "title": "Soporte inicial",
+      "description": "30 días de garantía para ajustes y dudas. Después, planes de mantenimiento mensual disponibles.",
+      "duration": "30 días"
+    }
+  ]
+}

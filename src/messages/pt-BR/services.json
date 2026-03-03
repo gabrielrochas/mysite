@@ -1,0 +1,23 @@
+{
+  "section_title": "Serviços",
+  "fast_sites": {
+    "title": "Sites rápidos que geram caixa",
+    "bullets": [
+      "Escopo fechado: 1 página + obrigado, integrações básicas, sem surpresas",
+      "Prazo curto: entrega em dias, não semanas, para você rodar campanha rápido",
+      "Tracking configurado: Analytics e Pixel prontos, você acompanha resultados desde o dia 1",
+      "Copy focada em conversão: não é 'institucional chato', é ferramenta de vendas"
+    ],
+    "cta": "Quero um site rápido"
+  },
+  "custom_apps": {
+    "title": "Aplicações web sob medida",
+    "bullets": [
+      "Eliminar planilhas confusas e processos manuais que travam seu time",
+      "Redução de erros: automatizar tarefas repetitivas e centralizar informações",
+      "Visibilidade em tempo real: dashboards e relatórios para decisões mais rápidas",
+      "Tecnologia moderna: React + Node.js, boas práticas, código manutenível"
+    ],
+    "cta": "Quero uma aplicação sob medida"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "section_title": "Perguntas frequentes",
+  "questions": [
+    {
+      "question": "Quanto custa?",
+      "answer": "Sites rápidos têm escopo fechado e faixa de investimento previsível. Aplicações sob medida variam conforme complexidade — CRM simples é diferente de plataforma B2B. Após a call de diagnóstico, envio proposta com valor detalhado por etapa."
+    },
+    {
+      "question": "Qual o prazo?",
+      "answer": "Sites rápidos: até 10 dias úteis. Aplicações sob medida: entre 4 e 12 semanas, dependendo do escopo. Trabalho em sprints curtos (1–2 semanas) com entregas parciais para você acompanhar evolução."
+    },
+    {
+      "question": "Como funciona o pagamento?",
+      "answer": "Geralmente divido em 3 parcelas: 30% no início (para começar), 40% no meio (após primeira entrega), 30% na entrega final. Aceito PIX, boleto e transferência. Tudo documentado em contrato simples."
+    },
+    {
+      "question": "E se eu não souber definir o que preciso?",
+      "answer": "Normal! A call de diagnóstico serve justamente para isso. Você explica o problema, eu faço perguntas sobre seu processo e negócio, e juntos chegamos num escopo claro. Não espero que você chegue com 'especificação técnica pronta'."
+    },
+    {
+      "question": "Vocês dão suporte após entrega?",
+      "answer": "Sim. Todo projeto inclui 30 dias de garantia para ajustes e dúvidas. Depois, ofereço planos de manutenção mensal para correções, melhorias e atualizações."
+    },
+    {
+      "question": "Por que não usar plataforma pronta?",
+      "answer": "Plataformas prontas (Wix, WordPress, no-code) são ótimas para casos simples. Se você precisa de integrações específicas, regras de negócio customizadas ou algo que 'não existe pronto', código sob medida é mais eficiente e escalável. E você não fica refém de mensalidades de plugins."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "section_title": "Services",
+  "fast_sites": {
+    "title": "Fast websites that generate revenue",
+    "bullets": [
+      "Fixed scope: 1 page + thank you, basic integrations, no surprises",
+      "Short timeline: delivery in days, not weeks, so you can run campaigns quickly",
+      "Tracking configured: Analytics and Pixel ready, you track results from day 1",
+      "Conversion-focused copy: not 'boring corporate', it's a sales tool"
+    ],
+    "cta": "I want a fast website"
+  },
+  "custom_apps": {
+    "title": "Custom web applications",
+    "bullets": [
+      "Eliminate confusing spreadsheets and manual processes that slow down your team",
+      "Error reduction: automate repetitive tasks and centralize information",
+      "Real-time visibility: dashboards and reports for faster decisions",
+      "Modern technology: React + Node.js, best practices, maintainable code"
+    ],
+    "cta": "I want a custom application"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "section_title": "Apply for project",
+  "section_subtitle": "Fill out the form below and we'll get back to you within 24 hours",
+  "fields": {
+    "name": {
+      "label": "Your full name",
+      "placeholder": "John Smith",
+      "errors": {
+        "required": "Name is required",
+        "min_length": "Name must be at least 3 characters"
+      }
+    },
+    "email": {
+      "label": "Your email",
+      "placeholder": "john@company.com",
+      "errors": {
+        "required": "Email is required",
+        "invalid": "Invalid email"
+      }
+    },
+    "whatsapp": {
+      "label": "Your WhatsApp",
+      "placeholder": "+1 555 123-4567",
+      "errors": {
+        "required": "WhatsApp is required",
+        "invalid": "Invalid WhatsApp"
+      }
+    },
+    "company": {
+      "label": "Your company name",
+      "placeholder": "Company X Inc",
+      "errors": {
+        "required": "Company name is required"
+      }
+    },
+    "objective": {
+      "label": "What's the main project goal?",
+      "placeholder": "Ex.: Create landing page to capture leads",
+      "errors": {
+        "required": "Objective is required",
+        "min_length": "Describe the objective with at least 10 characters"
+      }
+    },
+    "project_type": {
+      "label": "Project type",
+      "options": [
+        "Fast website (landing page, corporate)",
+        "Custom application (CRM, dashboard, system)",
+        "Not sure yet"
+      ],
+      "errors": {
+        "required": "Select project type"
+      }
+    },
+    "budget_range": {
+      "label": "Investment range that makes sense for you",
+      "options": [
+        "Up to $5,000",
+        "$5,000 - $15,000",
+        "$15,000 - $30,000",
+        "Above $30,000",
+        "Need to understand better"
+      ],
+      "errors": {
+        "required": "Select investment range"
+      }
+    },
+    "urgency": {
+      "label": "What's the urgency?",
+      "options": [
+        "Urgent (need within 2 weeks)",
+        "Medium term (1-2 months)",
+        "Long term (3+ months)",
+        "No rush, want to understand feasibility"
+      ]
+    },
+    "additional_info": {
+      "label": "Tell more about your business and the problem (optional)",
+      "placeholder": ""
+    }
+  },
+  "submit_button": "Submit",
+  "submit_message": "You will receive an email within 24 hours with next steps and link to schedule a call.",
+  "filter_text": "This diagnosis is for companies seeking real results, not just 'a pretty website'. If you want something professional and are willing to invest appropriately, let's talk."
+}

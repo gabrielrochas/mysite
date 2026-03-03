@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "use_cases": "Use cases",
+    "process": "Process",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "footer": {
+    "company_description": "Innovative business solutions to transform your business.",
+    "quick_links": "Quick Links",
+    "contact_title": "Contact",
+    "email": "contact@rochagabriel.com",
+    "phone": "+55 (61) 99999-9999",
+    "copyright": "All rights reserved."
+  },
+  "language_switcher": {
+    "label": "Language",
+    "pt_BR": "Português",
+    "en": "English",
+    "es": "Español"
+  },
+  "thank_you": {
+    "title": "Thank you for contacting us!",
+    "confirmation": "We received your message and will be in touch soon.",
+    "next_steps": "You will receive an email within 24 hours with next steps.",
+    "cta_whatsapp": "Message on WhatsApp",
+    "cta_home": "Back to home"
+  }
+}

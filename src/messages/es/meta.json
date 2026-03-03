@@ -1,0 +1,12 @@
+{
+  "home": {
+    "title": "Gabriel Rocha - Desarrollo Web Full-Stack | React & Node.js",
+    "description": "Aplicaciones web a medida y sitios rápidos para empresas que necesitan automatizar operaciones y captar leads. React, Node.js, Next.js.",
+    "keywords": "desarrollo web, react, nodejs, aplicaciones a medida, landing page, frontend developer"
+  },
+  "thank_you": {
+    "title": "Gracias | Gabriel Rocha",
+    "description": "Mensaje recibido con éxito",
+    "robots": "noindex, follow"
+  }
+}

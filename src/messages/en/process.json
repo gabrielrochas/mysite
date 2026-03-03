@@ -1,0 +1,35 @@
+{
+  "section_title": "Work process",
+  "steps": [
+    {
+      "title": "Diagnosis",
+      "description": "30–45 min call to understand your business, current process and goal. Not a 'sales meeting', it's a technical conversation to see if it makes sense to work together.",
+      "duration": "30-45 min"
+    },
+    {
+      "title": "Proposal and scope",
+      "description": "Within 3 days, you receive a structured proposal with clear scope, realistic timeline and detailed investment. No surprises along the way.",
+      "duration": "3 days"
+    },
+    {
+      "title": "Kick-off",
+      "description": "Final alignment of expectations, definition of delivery milestones and configuration of tracking tools.",
+      "duration": "1-2h"
+    },
+    {
+      "title": "Development",
+      "description": "Work in short sprints (1–2 weeks) with partial deliveries so you can track progress and give feedback.",
+      "duration": "4-12 weeks"
+    },
+    {
+      "title": "Delivery and testing",
+      "description": "Final review, quality tests, adjustments and production deployment.",
+      "duration": "1 week"
+    },
+    {
+      "title": "Initial support",
+      "description": "30 days warranty for adjustments and questions. After that, monthly maintenance plans available.",
+      "duration": "30 days"
+    }
+  ]
+}
